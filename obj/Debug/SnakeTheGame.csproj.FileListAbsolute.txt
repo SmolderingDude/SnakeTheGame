@@ -1,0 +1,17 @@
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\bin\Debug\SnakeTheGame.exe.config
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\bin\Debug\SnakeTheGame.exe
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\bin\Debug\SnakeTheGame.pdb
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\obj\Debug\SnakeTheGame.csproj.AssemblyReference.cache
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\obj\Debug\SnakeTheGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\obj\Debug\SnakeTheGame.Properties.Resources.resources
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\obj\Debug\SnakeTheGame.csproj.GenerateResource.cache
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\obj\Debug\SnakeTheGame.csproj.CoreCompileInputs.cache
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\obj\Debug\SnakeTheGame.exe
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\obj\Debug\SnakeTheGame.pdb
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\obj\Debug\SnakeTheGame.Form1.resources
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\obj\Debug\SnakeTheGame.Form1.asa-TZ.resources
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\obj\Debug\SnakeTheGame.Form1.ru.resources
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\bin\Debug\asa-TZ\SnakeTheGame.resources.dll
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\bin\Debug\ru\SnakeTheGame.resources.dll
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\obj\Debug\asa-TZ\SnakeTheGame.resources.dll
+C:\Users\pc\RiderProjects\SnakeTheGame\SnakeTheGame\obj\Debug\ru\SnakeTheGame.resources.dll
